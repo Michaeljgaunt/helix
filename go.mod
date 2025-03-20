@@ -1,4 +1,4 @@
-module github.com/Michaeljgaunt/helix/v2
+module github.com/Michaeljgaunt/helix
 
 go 1.22
 
